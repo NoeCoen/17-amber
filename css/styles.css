@@ -18,7 +18,32 @@
   src: url(../fonts/MyriadPro-Regular.woff2);
 }
 
-nav {
+body {
+  margin: 0;
+}
+
+.flex-container {
   background-color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.header-element {
   color: white;
+  margin: 10px;
+  font-size: x-large;
+}
+
+.header-element img {
+  min-width: 100px;
+}
+
+.typo-60 {
+  font-family: bootle;
+}
+
+.typo-70 {
+  font-family: squealer;
 }
