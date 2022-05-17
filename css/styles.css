@@ -20,6 +20,7 @@
 
 body {
   margin: 0;
+  font-family: myriadpro;
 }
 
 .flex-container {
@@ -75,4 +76,17 @@ body {
 .avantage img {
   max-width: 50px;
   margin: 10px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+  padding: 10px;
+}
+
+.button {
+  font-size: x-large;
+  text-decoration: none;
+  color: black;
 }
