@@ -17,3 +17,8 @@
   font-family: myriadpro;
   src: url(../fonts/MyriadPro-Regular.woff2);
 }
+
+nav {
+  background-color: black;
+  color: white;
+}
