@@ -47,3 +47,32 @@ body {
 .typo-70 {
   font-family: squealer;
 }
+
+.avantages-produit {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: black;
+  justify-content: center;
+  padding: 5px;
+}
+
+.avantage {
+  max-width: 170px;
+  max-height: 170px;
+  background-color: white;
+  margin: 5px;
+  font-size: x-small;
+}
+
+.avantage p {
+  margin: 5px;
+}
+.avantage h2 {
+  font-size: medium;
+  margin: 5px;
+}
+.avantage img {
+  max-width: 50px;
+  margin: 10px;
+}
