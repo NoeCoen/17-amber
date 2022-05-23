@@ -18,6 +18,17 @@
   src: url(../fonts/MyriadPro-Regular.woff2);
 }
 
+html {
+  scroll-behavior: smooth;  
+  max-width: 420px;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  font-size: 4.5em;
+}
+
 body {
   margin: 0;
   font-family: myriadpro;
@@ -48,6 +59,10 @@ body {
 
 .typo-70 {
   font-family: squealer;
+}
+
+.typo-50 {
+  font-family: rockstage;
 }
 
 .avantages-produit {
