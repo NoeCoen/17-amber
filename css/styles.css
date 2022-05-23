@@ -33,6 +33,10 @@ body {
   font-family: myriadpro;
 }
 
+.gif {
+  max-width: 380px;
+}
+
 .horizontal-scroll {
   display: flex;
   flex-direction: row;
