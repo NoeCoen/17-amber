@@ -68,6 +68,10 @@ body {
   min-width: 100px;
 }
 
+.typo-re {
+  font-family: myriadpro;
+}
+
 .typo-60 {
   font-family: bootle;
 }
