@@ -35,6 +35,17 @@ body {
   font-family: myriadpro;
 }
 
+.horizontal-scroll {
+  display: flex;
+  flex-direction: row;
+  overflow: scroll;
+  height: 300px;
+}
+
+.horizontal-scroll img {
+  max-height: 250px;
+  margin: 20px;
+}
 .flex-container-header {
   background-color: black;
   display: flex;
