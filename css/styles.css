@@ -26,7 +26,8 @@ html {
 
 h1 {
   text-align: center;
-  font-size: 4.5em;
+  font-size: 6.5em;
+  margin: -30px 0;
 }
 
 body {
@@ -40,6 +41,11 @@ body {
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
+}
+
+.legende-typo {
+  font-size: large;
+  margin: 20px;
 }
 
 .header-element {
