@@ -59,6 +59,7 @@ body {
 .legende-typo {
   font-size: large;
   margin: 20px;
+  text-align: center;
 }
 
 .header-element {
