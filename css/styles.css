@@ -96,6 +96,7 @@ body {
   background-color: black;
   justify-content: center;
   padding: 5px;
+  margin-bottom: 0;
 }
 
 .avantage {
@@ -184,4 +185,15 @@ body {
   text-align: center;
   margin: 0;
   font-size: small;
+}
+
+.prix {
+  background-color: black;
+  color: white;
+  padding: 13px;
+  font-size: large;
+}
+
+.prix p {
+  margin: 0;
 }
